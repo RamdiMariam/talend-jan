@@ -21,3 +21,10 @@ globalMap.put("output_file",new java.io.FileOutputStream("C:/talendFiles/custome
 
 (java.io.OutputStream)globalMap.get("output_file")
 
+
+
+
+
+
+Please take this survey :)
+https://goo.gl/forms/lRXm4MYC3e7wWoW63
