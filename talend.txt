@@ -1,0 +1,23 @@
+Adding components to the job
+1. Find your component on Palette
+2. Add a component directly by typing on the design workspace
+3. Drag an input component and search for your output component that is compatible
+4. Drag and drop a centralized metadata item
+
+tFileInputDelimited, tLogRow, tFileOutputDelimited
+
+tMap - select, transform, modify data. It can route data from single or multiple sources and to single or multiple destinations.
+
+tFileInputDelimited, tLogRow, tFileOutputDelimited, tJava, tMap
+
+1. Read the input file according to our schema
+2. Set a command to enable output stream 
+
+new java.io.File("C:/talendFiles").mkdirs();
+globalMap.put("output_file",new java.io.FileOutputStream("C:/talendFiles/customerOutput.txt", false));
+
+3. Map the data using tMap
+4. Output the selected data using output stream
+
+(java.io.OutputStream)globalMap.get("output_file")
+
