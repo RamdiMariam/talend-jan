@@ -1,0 +1,123 @@
+City;County
+Agoura Hills;Los Angeles
+Alhambra;Los Angeles
+Aliso Viejo;Orange
+Anaheim;Orange
+Arcadia;Los Angeles
+Artesia;Los Angeles
+Avalon;Los Angeles
+Azusa;Los Angeles
+Baldwin Park;Los Angeles
+Bell;Los Angeles
+Bell Gardens;Los Angeles
+Bellflower;Los Angeles
+Beverly Hills;Los Angeles
+Bradbury;Los Angeles
+Brea;Orange
+Buena Park;Orange
+Burbank;Los Angeles
+Calabasas;Los Angeles
+Carson;Los Angeles
+Cerritos;Los Angeles
+Claremont;Los Angeles
+City of Commerce;Los Angeles
+Compton;Los Angeles
+Costa Mesa;Orange
+Covina;Los Angeles
+Cudahy;Los Angeles
+Culver City;Los Angeles
+Cypress;Orange
+Dana Point;Orange
+Diamond Bar;Los Angeles
+Downey;Los Angeles
+Duarte;Los Angeles
+El Monte;Los Angeles
+El Segundo;Los Angeles
+Fountain Valley;Orange
+Fullerton;Orange
+Garden Grove;Orange
+Gardena;Los Angeles
+Glendale;Los Angeles
+Glendora;Los Angeles
+Hawaiian Gardens;Los Angeles
+Hawthorne;Los Angeles
+Hermosa Beach;Los Angeles
+Hidden Hills;Los Angeles
+Huntington Beach;Orange
+Huntington Park;Los Angeles
+City of Industry;Los Angeles
+Inglewood;Los Angeles
+Irvine;Orange
+Irwindale;Los Angeles
+La Ca ada Flintridge;Los Angeles
+La Habra;Orange
+La Habra Heights;Los Angeles
+La Mirada;Los Angeles
+La Palma;Orange
+La Puente;Los Angeles
+La Verne;Los Angeles
+Laguna Beach;Orange
+Laguna Hills;Orange
+Laguna Niguel;Orange
+Laguna Woods;Orange
+Lake Forest;Orange
+Lakewood;Los Angeles
+Lancaster;Los Angeles
+Lawndale;Los Angeles
+Lomita;Los Angeles
+Long Beach;Los Angeles
+Los Alamitos;Orange
+Los Angeles;Los Angeles
+Lynwood;Los Angeles
+Malibu;Los Angeles
+Manhattan Beach;Los Angeles
+Maywood;Los Angeles
+Mission Viejo;Orange
+Monrovia;Los Angeles
+Montebello;Los Angeles
+Monterey Park;Los Angeles
+Newport Beach;Orange
+Norwalk;Los Angeles
+Orange;Orange
+Palmdale;Los Angeles
+Palos Verdes Estates;Los Angeles
+Paramount;Los Angeles
+Pasadena;Los Angeles
+Pico Rivera;Los Angeles
+Placentia;Orange
+Pomona;Los Angeles
+Rancho Palos Verdes;Los Angeles
+Rancho Santa Margarita;Orange
+Redondo Beach;Los Angeles
+Rolling Hills;Los Angeles
+Rolling Hills Estates;Los Angeles
+Rosemead;Los Angeles
+San Clemente;Orange
+San Dimas;Los Angeles
+San Fernando;Los Angeles
+San Gabriel;Los Angeles
+San Juan Capistrano;Orange
+San Marino;Los Angeles
+Santa Ana;Orange
+Santa Clarita;Los Angeles
+Santa Fe Springs;Los Angeles
+Santa Monica;Los Angeles
+Seal Beach;Orange
+Sierra Madre;Los Angeles
+Signal Hill;Los Angeles
+South El Monte;Los Angeles
+South Gate;Los Angeles
+South Pasadena;Los Angeles
+Stanton;Orange
+Temple City;Los Angeles
+Torrance;Los Angeles
+Tustin;Orange
+Vernon;Los Angeles
+Villa Park;Orange
+Walnut;Los Angeles
+West Covina;Los Angeles
+West Hollywood;Los Angeles
+Westlake Village;Los Angeles
+Westminster;Orange
+Whittier;Los Angeles
+Yorba Linda;Orange
