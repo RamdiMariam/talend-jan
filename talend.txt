@@ -23,6 +23,46 @@ globalMap.put("output_file",new java.io.FileOutputStream("C:/talendFiles/custome
 
 
 
+To read multiplte files:-
+1. Use tFileList
+-Create context variable using directory's path
+
+2. tJava
+
+System.out.println("Processing file : " + ((String)globalMap.get("tFileList_1_CURRENT_FILE")));
+
+3. tInputFileDelimited
+
+((String)globalMap.get("tFileList_1_CURRENT_FILEPATH"))
+
+4. tOutputFileDelimited
+
+
+SCD - Slowly Changing Dimensions
+
+Type 0 - We dont make any effort for SCD issues
+Type 1 - Override the initial data with new data
+Type 2 - Create a new row for modified data and keep the older record also
+Type 3 - Maintain previous value
+
+1;Janet;Anderson;123 street;Agoura Hills;Adecco;30;single
+1;Janet;Anderson;123 street;Agoura Hills;Adecco;30;married //type1
+1;Janet;Anderson;123 street;Agoura Hills;Adecco;30;single //type0 (surname has been chnaged but we didnt update it)
+2;Janet;Anderson;123 street;Agoura Hills;abc firm;30;single //type2 (she started working for new company so we created a new record and we maintained the previous one also)
+1;Janet;Anderson;123 street;New city;Mountains;Adecco;30;single //type3 (Agoura hills has been discarded because it was previous value before she shifted to New city)
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
